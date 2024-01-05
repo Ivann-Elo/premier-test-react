@@ -6,7 +6,7 @@
 // const showTitle = true 
 // const todo = [
 //    'Terminer le tuto react',
-//    'Allez à la salle', 
+//    'Aller à la salle', 
 //    'Faire a manger'
 // ]
 
